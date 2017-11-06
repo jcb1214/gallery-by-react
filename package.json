@@ -22,6 +22,7 @@
   "keywords": [],
   "author": "Your name here",
   "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
     "babel-core": "^6.0.0",
     "babel-eslint": "^6.0.0",
     "babel-loader": "^6.0.0",
@@ -50,16 +51,18 @@
     "karma-webpack": "^1.7.0",
     "minimist": "^1.2.0",
     "mocha": "^3.0.0",
+    "node-sass": "^4.6.0",
     "null-loader": "^0.1.1",
     "open": "0.0.5",
     "phantomjs-prebuilt": "^2.0.0",
     "react-addons-test-utils": "^15.0.0",
     "react-hot-loader": "^1.2.9",
     "rimraf": "^2.4.3",
+    "sass-loader": "^6.0.6",
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.6",
-    "webpack": "^1.12.0",
-    "webpack-dev-server": "^1.12.0"
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^1.16.5"
   },
   "dependencies": {
     "core-js": "^2.0.0",
